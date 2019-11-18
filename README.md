@@ -1,9 +1,5 @@
 # About Me
 
-#### Nikhil Singh     
-#### Experience: 5+ years      
-#### Interest: Data Science       
-
 ### Project Repositories:
 - [Computer Vision](https://github.com/nikhilsingh13/Computer-Vision)
 - [Reinforcement Learning](https://github.com/nikhilsingh13/Reinforcement-Learning)
