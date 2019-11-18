@@ -1,4 +1,4 @@
-# About Me
+# Nikhil Singh
 
 ### Project Repositories:
 - [Computer Vision](https://github.com/nikhilsingh13/Computer-Vision)
