@@ -1,6 +1,6 @@
 # Nikhil Singh
 ## Data Scientist
-### Currently working @Ascena Retail GIC
+### Currently working @o9Solutions
 
 Below are a few repos I am currently working on. Some more projects are in the final stage and soon to be uploaded here.
 
