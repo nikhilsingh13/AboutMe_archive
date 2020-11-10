@@ -1,5 +1,5 @@
 # Nikhil Singh
-## Data Scientist
+## Sr. Data Scientist
 ### Currently working @Klarna Bank AB
 
 Below are a few repos I am currently working on. Some more projects are in the final stage and soon to be uploaded here.
