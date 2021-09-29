@@ -16,3 +16,4 @@ Below are a few repos I am currently working on. Some more projects are in the f
   - __Codes of Algorithms/Techniques from _Scratch___
     - <a href="https://github.com/nikhilsingh13/Articles-Notes-Codes/blob/master/From%20scratch/Two-layer-neural-nets.ipynb" target="_blank">2-layered Neural Network</a>
 - [Kaggle 30 days of ML](https://github.com/nikhilsingh13/Kaggle-30-Days-of-ML)
+- [PythonHacks](https://github.com/nikhilsingh13/PythonHacks)
