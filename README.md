@@ -10,7 +10,7 @@ Below are a few repos I am currently working on. Some more projects are in the f
 - [SideProjects](https://github.com/nikhilsingh13/SideProjects)
 - [Natural Language Processing](https://github.com/nikhilsingh13/Natural-Language-Processing-Stuff)
 - [Competitions I work on](https://github.com/nikhilsingh13/Competitions)
-- [Recommender Engine](#)
+- [Recommender system](https://github.com/nikhilsingh13/Recommender-system)
 - [Articles Notes Codes etc.](https://github.com/nikhilsingh13/Articles-Notes-Codes)
   - <a href="https://github.com/nikhilsingh13/Articles-Notes-Codes/tree/master/Forecasting-notes" target="_blank">Forecasting: Principles and Practices Notes</a>
   - __Codes of Algorithms/Techniques from _Scratch___
